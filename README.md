@@ -14,6 +14,8 @@ Here is the address: https://www.youtube.com/watch?v=I96uPDifZ1w
 
 Using BloomFilter to highlight key words
 
+[项目地址](https://github.com/DolorHunter/BloomFilter)
+
 `本项目为数据结构课程设计作业`
 
 $ Release版本的Notepad2.0可以直接下载使用.
