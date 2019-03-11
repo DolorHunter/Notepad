@@ -5,8 +5,8 @@
 Qt: C++ Notepad
 
 效果图:
-!
-[](https://github.com/DolorHunter/BloomFilter/blob/master/example.png)
+
+![](https://github.com/DolorHunter/BloomFilter/blob/master/example.png)
 
 Thanks to the tutorial from Derek Banas 
 
