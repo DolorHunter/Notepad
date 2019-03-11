@@ -4,6 +4,10 @@
 
 Qt: C++ Notepad
 
+效果图:
+!
+[](https://github.com/DolorHunter/BloomFilter/blob/master/example.png)
+
 Thanks to the tutorial from Derek Banas 
 
 [Vedio Tutorial](https://www.youtube.com/watch?v=I96uPDifZ1w)
