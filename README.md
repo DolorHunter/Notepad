@@ -1,12 +1,12 @@
 # Notepad
 
-`本项目为数据结构课程设计作业副产物`
+`本项目为数据结构课程设计大作业`
 
 Qt: C++ Notepad
 
 效果图:
 
-![](https://github.com/DolorHunter/BloomFilter/blob/master/example.png)
+![](example.png)
 
 Thanks to the tutorial from Derek Banas 
 
