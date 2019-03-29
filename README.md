@@ -16,11 +16,7 @@ Thanks to the tutorial from Derek Banas
 
 # BloomFilter Notepad
 
-Using BloomFilter to highlight key words
-
-[项目地址](https://github.com/DolorHunter/BloomFilter)
-
-`本项目为数据结构课程设计作业`
+v.2.0 Using BloomFilter to highlight key words
 
 $ Release版本的Notepad2.0可以直接下载使用.
 
