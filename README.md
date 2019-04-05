@@ -1,5 +1,7 @@
 # Notepad
 
+[![LICENSE](https://img.shields.io/badge/license-Apache--2.0-green.svg)](LICENSE)
+
 `本项目为数据结构课程设计大作业`
 
 Qt: C++ Notepad
