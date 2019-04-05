@@ -1,6 +1,7 @@
 # Notepad
 
 [![LICENSE](https://img.shields.io/badge/license-Apache--2.0-green.svg)](LICENSE)
+[![Platform](https://img.shields.io/badge/platform-windows-lightgrey.svg)]()
 
 `本项目为数据结构课程设计大作业`
 
