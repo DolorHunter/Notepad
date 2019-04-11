@@ -20,10 +20,12 @@ MainWindow::MainWindow(QWidget *parent) :
     this->setCentralWidget(ui->textEdit);//Edit
     this->setWindowTitle("Notepad++       Powered by: DolorHunter");
 
+    sizeHint(800, 600);
 
     editor = new QTextEdit;
     editor->setFont(font);
     editor->setPlainText("");
+    editor->setFont(QFont(tr("Consolas"), 15));
 
     //!!!!!!Donot Missing this line!!!!!!!!
     setCentralWidget(editor);
@@ -38,6 +40,11 @@ MainWindow::MainWindow(QWidget *parent) :
 MainWindow::~MainWindow()
 {
     delete ui;
+}
+
+QSize MainWindow::sizeHint(const int x, const int y)
+{
+    return QSize(x, y);
 }
 
 void MainWindow::on_actionNew_triggered()
