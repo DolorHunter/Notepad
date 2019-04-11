@@ -26,6 +26,7 @@ class MainWindow : public QMainWindow
 public:
     explicit MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
+    virtual QSize sizeHint (const int x, const int y);
 
 private slots:
 
